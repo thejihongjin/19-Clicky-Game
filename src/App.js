@@ -59,6 +59,10 @@ class App extends React.Component {
         }
     }
 
+    componentDidMount() {
+        this.state.randomizeImg();
+    }
+
     render() {
         return (
             <div>
