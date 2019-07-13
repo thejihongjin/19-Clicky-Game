@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "Alex Morgan",
-        "image": "/assets/images/alex-morgan.jpg",
+        "image": "assets/images/alex-morgan.jpg",
         "clicked": false
     },
     {
         "id": 2,
         "name": "Ashlyn Harris",
-        "image": "/assets/images/ashlyn-harris.jpg",
+        "image": "assets/images/ashlyn-harris.jpg",
         "clicked": false
     },
     {
         "id": 3,
         "name": "Becky Sauerbrunn",
-        "image": "/assets/images/becky-sauerbrunn.jpg",
+        "image": "assets/images/becky-sauerbrunn.jpg",
         "clicked": false
     },
     {
         "id": 4,
         "name": "Carli Lloyd",
-        "image": "/assets/images/carli-lloyd.jpg",
+        "image": "assets/images/carli-lloyd.jpg",
         "clicked": false
     },
     {
         "id": 5,
         "name": "Christen Press",
-        "image": "/assets/images/christen-press.jpg",
+        "image": "assets/images/christen-press.jpg",
         "clicked": false
     },
     {
         "id": 6,
         "name": "Julie Ertz",
-        "image": "/assets/images/julie-ertz.jpg",
+        "image": "assets/images/julie-ertz.jpg",
         "clicked": false
     },
     {
         "id": 7,
         "name": "Kelley O'Hara",
-        "image": "/assets/images/kelley-ohara.jpg",
+        "image": "assets/images/kelley-ohara.jpg",
         "clicked": false
     },
     {
         "id": 8,
         "name": "Mallory Pugh",
-        "image": "/assets/images/mallory-pugh.jpg",
+        "image": "assets/images/mallory-pugh.jpg",
         "clicked": false
     },
     {
         "id": 9,
         "name": "Megan Rapinoe",
-        "image": "/assets/images/megan-rapinoe.jpg",
+        "image": "assets/images/megan-rapinoe.jpg",
         "clicked": false
     },
     {
         "id": 10,
         "name": "Morgan Brian",
-        "image": "/assets/images/morgan-brian.jpg",
+        "image": "assets/images/morgan-brian.jpg",
         "clicked": false
     },
     {
         "id": 11,
         "name": "Rose Lavelle",
-        "image": "/assets/images/rose-lavelle.jpg",
+        "image": "assets/images/rose-lavelle.jpg",
         "clicked": false
     },
     {
         "id": 12,
         "name": "Tobin Heath",
-        "image": "/assets/images/tobin-heath.jpg",
+        "image": "assets/images/tobin-heath.jpg",
         "clicked": false
     }
 ]
